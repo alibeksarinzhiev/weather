@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eca7cda7-c4aa-4c17-b542-1f8d52c1f6e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/moviesreact.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/backg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/ball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/природа.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +68,13 @@
       <workItem from="1636186507048" duration="57000" />
       <workItem from="1637050080788" duration="11000" />
       <workItem from="1637314728236" duration="285000" />
-      <workItem from="1638430278365" duration="517000" />
+      <workItem from="1638430278365" duration="1278000" />
+      <workItem from="1638511820439" duration="952000" />
+      <workItem from="1640245351621" duration="4000" />
+      <workItem from="1640252911410" duration="12000" />
+      <workItem from="1641148310404" duration="323000" />
+      <workItem from="1641151774932" duration="10000" />
+      <workItem from="1642400631999" duration="240000" />
     </task>
     <servers />
   </component>
@@ -98,9 +82,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="60" key="FileChooserDialogImpl" timestamp="1637315012622">
+    <state x="413" y="60" key="FileChooserDialogImpl" timestamp="1641151782932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1637315012622" />
+    <state x="413" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1641151782932" />
   </component>
 </project>
