@@ -17,7 +17,7 @@ function App() {
         <div className='App'>
             <h1>Прогноз погоды</h1>
             <div>
-                <input type="text" onChange={(e)=> setCity(e.target.value)}/>
+                <input placeholder='Введите город' type="text" onChange={(e)=> setCity(e.target.value)}/>
                 <button className='button' type='button' onClick={()=>getWeather()}>получить</button>
             </div>
             {JSON.stringify(weather)==='{}'
